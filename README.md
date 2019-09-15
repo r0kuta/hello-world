@@ -1,3 +1,4 @@
 # hello-world
-初次体验Github\n
+初次体验Github  
+
 Make and commit changes
